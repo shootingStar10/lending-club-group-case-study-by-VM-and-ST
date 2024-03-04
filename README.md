@@ -43,7 +43,9 @@ The loan.csv dataset has been used for the analysis which contains the data of a
 . seaborn
 . warnings
 
-
 ## Contributers
 - Vishrut Mishra (VM) (https://github.com/shootingStar10)
 - Sireesha Tumpati (ST) (https://github.com/sireeshatumpati9)
+
+  ## Note
+  - Extract 'loans.zip' to get the 'loan.csv' dataset
