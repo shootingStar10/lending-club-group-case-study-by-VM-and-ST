@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 Project is to analyse loans data of a consumer finance company to identify the factors that drive the loan defaulters.
 
 
