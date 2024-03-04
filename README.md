@@ -45,5 +45,5 @@ The loan.csv dataset has been used for the analysis which contains the data of a
 
 
 ## Contributers
-- Vishrut Mishra (VM)
+- Vishrut Mishra (VM) (https://github.com/shootingStar10)
 - Sireesha Tumpati (ST)
